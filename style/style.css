@@ -1,0 +1,12 @@
+form a {
+	margin-left: 10px;
+}
+
+h3 {
+	margin: 20px 0 !important;
+}
+
+.list-group-item:hover {
+	cursor: pointer;
+	background: #BDBDBD;
+}
